@@ -1,9 +1,11 @@
-import { Button, ButtonGroup } from "@chakra-ui/react";
+import { Grid, GridItem } from "@chakra-ui/react";
 
 function App() {
   return (
     <>
-      <Button colorPalette="blue">Click me</Button>
+    <Grid temp>
+      <GridItem>
+    </Grid>
     </>
   );
 }
